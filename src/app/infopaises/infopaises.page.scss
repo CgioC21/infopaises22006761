@@ -1,0 +1,24 @@
+ion-list {
+    margin: auto;  /* Centrar horizontalmente */
+    max-width: 400px;  /* Ajusta según tus necesidades */
+  }
+  
+  ion-item {
+    border-bottom: 1px solid #ccc;
+  }
+  
+  ion-avatar {
+    width: 50px;
+    height: 50px;
+  }
+  
+  img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+  
+  .large-text {
+    font-size: 24px;  /* Tamaño de fuente más grande */
+  }
+  
